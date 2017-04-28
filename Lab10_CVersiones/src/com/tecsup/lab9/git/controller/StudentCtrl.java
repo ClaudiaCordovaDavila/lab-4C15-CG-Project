@@ -7,4 +7,11 @@ public class StudentCtrl {
 	
 	System.out.println("Holaaaaaaa");
 	}
+	public void restar(){
+		int num1=5;
+		int num2=1;
+		int res= num1-num2;
+		
+		System.out.println(res);
+	}
 }
