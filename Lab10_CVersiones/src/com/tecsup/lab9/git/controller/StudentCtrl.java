@@ -5,7 +5,7 @@ public class StudentCtrl {
 	System.out.println("Hola Mundo");
 	System.out.println("Hola Mundo2");	
 	System.out.println("Holaaaaaaa");
-	
+		
 	}
 	public void Sumar(){
 		int a = 5;
