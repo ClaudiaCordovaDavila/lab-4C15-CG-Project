@@ -15,4 +15,11 @@ public class StudentCtrl {
 		
 		System.out.println(suma);
 	}
+	public void restar(){
+		int num1=5;
+		int num2=1;
+		int res= num1-num2;
+		
+		System.out.println(res);
+	}
 }
